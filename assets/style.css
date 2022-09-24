@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 30px;
+    color:cornflowerblue;
+    font-weight: bold;
+}
+
+.p1 {
+    font-size: 30px;
+    color:darkslateblue;
+}
+
+.p2 {
+    font-size: 15px;
+    color:darkmagenta;
+}
